@@ -35,7 +35,7 @@ Safe Filename Handling: Correctly processes filenames that contain spaces or oth
 3. How it Works
 The script operates by performing the following sequence of actions:
 
-Output File Definition: A variable is set to define the name of the consolidated output file (e.g., combined_all_cvp_tac_content.md).
+Output File Definition: A variable is set to define the name of the consolidated output file (e.g., combined_all_cvp__content.md).
 
 Clean Slate: Any existing output file with the defined name is safely removed to prevent content duplication from previous runs.
 
