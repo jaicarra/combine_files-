@@ -2,21 +2,21 @@ README: Markdown Consolidation Script
 This README.md provides comprehensive information about a bash script designed to consolidate multiple Markdown files into a single, comprehensive document.
 
 Table of Contents
-Overview
+1. Overview
 
-Features
+2. Features
 
-How it Works
+3. How it Works
 
-Usage
+4.Usage
 
-Prerequisites
+5.Prerequisites
 
 Execution Steps
 
-Output
+5.Output
 
-Important Notes
+6.Important Notes
 
 1. Overview
 This bash script is a utility for recursively consolidating all Markdown files (.md) found within a specified directory and its subdirectories into a single, cohesive Markdown document. It's designed to streamline the process of aggregating scattered documentation or content into one easy-to-manage file.
